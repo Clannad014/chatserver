@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>close.png</file>
+        <file>flush.png</file>
+        <file>eromanga.png</file>
+        <file>sky.jpg</file>
+        <file>img1.webp</file>
+        <file>img2.webp</file>
+        <file>img3.webp</file>
+        <file>img4.webp</file>
+        <file>img5.webp</file>
+        <file>img6.webp</file>
+        <file>img7.webp</file>
+        <file>img8.webp</file>
+        <file>eyes-open.png</file>
+        <file>preview-close.png</file>
+        <file>LoginOutlined.png</file>
+    </qresource>
+</RCC>
